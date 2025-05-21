@@ -1,4 +1,4 @@
-const txtbox = document.getElementById("textbox");
+const txtbox = document.getElementById("txtbox");
 const tofa = document.getElementById("tofa");
 const toce = document.getElementById("toce");
 const result = document.getElementById("result");
